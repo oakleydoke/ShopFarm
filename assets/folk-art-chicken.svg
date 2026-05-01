@@ -1,0 +1,21 @@
+<svg width="280" height="280" viewBox="0 0 280 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Folk art chicken illustration">
+  <rect width="280" height="280" rx="36" fill="#FFF5E6"/>
+  <circle cx="146" cy="142" r="74" fill="#F5A524"/>
+  <path d="M113 95C101 77 75 74 59 87C44 99 43 123 56 137C69 151 93 148 108 131" fill="#CF3737"/>
+  <path d="M188 121C205 111 226 118 234 134C243 151 235 174 218 183C201 191 179 184 171 167" fill="#3B5A35"/>
+  <ellipse cx="158" cy="153" rx="46" ry="37" fill="#FFF5E6"/>
+  <circle cx="175" cy="134" r="8" fill="#202020"/>
+  <circle cx="177" cy="132" r="2" fill="#FFF5E6"/>
+  <path d="M204 144L228 154L205 166L198 155L204 144Z" fill="#E86A17"/>
+  <path d="M92 169C83 188 95 209 119 214C142 218 160 202 160 185C145 193 130 193 112 185C104 181 98 175 92 169Z" fill="#8F3A15"/>
+  <path d="M127 197H137V231H127V197Z" fill="#202020"/>
+  <path d="M157 196H167V231H157V196Z" fill="#202020"/>
+  <path d="M118 230H145V238H118V230Z" fill="#202020"/>
+  <path d="M148 230H175V238H148V230Z" fill="#202020"/>
+  <path d="M93 109C82 101 66 103 58 115" stroke="#202020" stroke-width="6" stroke-linecap="round"/>
+  <path d="M188 112C198 103 214 104 223 114" stroke="#202020" stroke-width="6" stroke-linecap="round"/>
+  <path d="M106 74L118 58L129 74H106Z" fill="#CF3737"/>
+  <path d="M129 74L141 58L152 74H129Z" fill="#CF3737"/>
+  <path d="M152 74L164 58L175 74H152Z" fill="#CF3737"/>
+  <path d="M118 119C131 106 149 103 163 110" stroke="#202020" stroke-width="5" stroke-linecap="round"/>
+</svg>
